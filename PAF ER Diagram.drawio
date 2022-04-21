@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T19:50:06.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="TbMHcLbh6zIBvw4rzesK" version="17.4.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-04-21T19:50:14.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="LT_DIrg4_0VU1kO5m6XS" version="17.4.6" type="github" pages="7">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
     <mxGraphModel dx="1730" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1276,7 +1276,7 @@
         <mxCell id="cBI2Xb60p8mV19evPLE--1" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-160" y="860" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cBI2Xb60p8mV19evPLE--2" value="Send a Inquires" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cBI2Xb60p8mV19evPLE--2" value="Send a Inquiry" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="204" y="780" width="146" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cBI2Xb60p8mV19evPLE--3" value="Login to the System" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
