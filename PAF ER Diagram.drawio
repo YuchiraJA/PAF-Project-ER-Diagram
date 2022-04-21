@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T19:55:48.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="bJ05YnUOznDoFRusfccD" version="17.4.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-04-21T19:58:10.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="1c1RR4Pw84CCgde3TjJy" version="17.4.6" type="github" pages="7">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
-    <mxGraphModel dx="2424" dy="2024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4382" dy="2957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1269,7 +1269,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F5nCuDPWh2ZTp-YyBXDP" name="Page-7">
-    <mxGraphModel dx="4338" dy="1406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="6460" dy="2439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1313,21 +1313,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="520" y="1120" as="sourcePoint" />
             <mxPoint x="680" y="1180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cBI2Xb60p8mV19evPLE--14" value="Add a Essay exam" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="1100" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="cBI2Xb60p8mV19evPLE--15" value="" style="edgeStyle=none;html=1;endSize=12;endArrow=block;endFill=0;exitX=0.904;exitY=0.232;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cBI2Xb60p8mV19evPLE--13" edge="1" target="cBI2Xb60p8mV19evPLE--11">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="430" y="1310" as="sourcePoint" />
-            <mxPoint x="400" y="1130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cBI2Xb60p8mV19evPLE--16" value="" style="edgeStyle=none;html=1;endSize=12;endArrow=block;endFill=0;exitX=0.621;exitY=0.045;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="cBI2Xb60p8mV19evPLE--14" target="cBI2Xb60p8mV19evPLE--11" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="630" y="1160" as="sourcePoint" />
-            <mxPoint x="530" y="1143" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cBI2Xb60p8mV19evPLE--17" value="&lt;span&gt;Add options&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1465,9 +1450,6 @@
             <mxPoint x="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cBI2Xb60p8mV19evPLE--13" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Approve students&#39; marks&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="cBI2Xb60p8mV19evPLE--47" vertex="1">
-          <mxGeometry x="100" y="160" width="170" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="cBI2Xb60p8mV19evPLE--50" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;entryX=0.75;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="cBI2Xb60p8mV19evPLE--1" edge="1">
           <mxGeometry width="100" height="75" relative="1" as="geometry">
             <mxPoint x="170" y="920" as="sourcePoint" />
@@ -1537,7 +1519,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cBI2Xb60p8mV19evPLE--70" value="&lt;span&gt;Add the correct answer&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="800" width="170" height="50" as="geometry" />
+          <mxGeometry x="270" y="680" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cBI2Xb60p8mV19evPLE--72" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;entryX=0.614;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cBI2Xb60p8mV19evPLE--70" target="cBI2Xb60p8mV19evPLE--3" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -1794,7 +1776,7 @@
         <mxCell id="cBI2Xb60p8mV19evPLE--149" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;exitX=0.603;exitY=0.039;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="cBI2Xb60p8mV19evPLE--148" edge="1">
           <mxGeometry width="100" height="75" relative="1" as="geometry">
             <mxPoint x="1840" y="1965" as="sourcePoint" />
-            <mxPoint x="1700" y="830" as="targetPoint" />
+            <mxPoint x="1800" y="730" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1830" y="830" />
             </Array>
