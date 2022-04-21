@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T20:42:49.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="mqthrXzREgubyy5KjOdQ" version="17.4.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-04-21T20:43:54.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="0EgGp0X9B7yoQefntUmY" version="17.4.6" type="github" pages="7">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
     <mxGraphModel dx="5567" dy="3552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1269,7 +1269,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F5nCuDPWh2ZTp-YyBXDP" name="Page-7">
-    <mxGraphModel dx="2522" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="4655" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1485,7 +1485,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cBI2Xb60p8mV19evPLE--101" value="Add Notices" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cBI2Xb60p8mV19evPLE--101" value="Manage Notices" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="706.25" y="1026.5" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cBI2Xb60p8mV19evPLE--103" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeWidth=1;entryX=0.938;entryY=0.796;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cBI2Xb60p8mV19evPLE--125" target="cBI2Xb60p8mV19evPLE--105" edge="1">
@@ -1610,13 +1610,13 @@
         <mxCell id="WbedJ4VOdD9Ap78klfUJ-1" value="Test MeterHandling" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="1200" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cBI2Xb60p8mV19evPLE--137" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;" parent="1" edge="1">
+        <mxCell id="cBI2Xb60p8mV19evPLE--137" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;exitX=0.98;exitY=0.341;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="cBI2Xb60p8mV19evPLE--120">
           <mxGeometry width="100" height="75" relative="1" as="geometry">
-            <mxPoint x="1030" y="1323.1314814814814" as="sourcePoint" />
-            <mxPoint x="1352.5" y="1281.65" as="targetPoint" />
+            <mxPoint x="1070" y="1311.4814814814813" as="sourcePoint" />
+            <mxPoint x="1340" y="1140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1252.5" y="1336.3537037037038" />
-              <mxPoint x="1372.5" y="1351.65" />
+              <mxPoint x="1292.5" y="1324.7037037037037" />
+              <mxPoint x="1412.5" y="1340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1687,9 +1687,9 @@
           <mxGeometry x="27" y="35" width="175.5" height="19.999999999999996" as="geometry" />
         </mxCell>
         <mxCell id="ErGYPea4xapVWh3ht-KA-19" value="Get the report" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="966.5" width="180" height="50" as="geometry" />
+          <mxGeometry x="690" y="950" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ErGYPea4xapVWh3ht-KA-20" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.073;entryY=0.251;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="ErGYPea4xapVWh3ht-KA-19" target="ErGYPea4xapVWh3ht-KA-14" parent="1">
+        <mxCell id="ErGYPea4xapVWh3ht-KA-20" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.95;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="ErGYPea4xapVWh3ht-KA-19" target="ErGYPea4xapVWh3ht-KA-18" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="720" y="1030" as="sourcePoint" />
             <mxPoint x="880" y="1030" as="targetPoint" />
