@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T14:44:53.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ueEGp8Qt2PZuD8kUIMy-" version="17.4.6" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-04-22T14:46:01.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="7zIuruOBYuISa2tvjJiC" version="17.4.6" type="github" pages="18">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
     <mxGraphModel dx="2310" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3964,7 +3964,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mmGXzSUyRFw0xplu-he5" name="Kunkuma sequence">
-    <mxGraphModel dx="593" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4025,7 +4025,7 @@
             <mxPoint x="25" y="238" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UouBOmaYRDly8nJl6drz-16" value="Movie UI" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="UouBOmaYRDly8nJl6drz-16" value="Notices&lt;br&gt;UI" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="575" y="33" width="50" height="1757" as="geometry" />
         </mxCell>
         <mxCell id="UouBOmaYRDly8nJl6drz-17" value="Status()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.153;entryY=0.911;entryDx=0;entryDy=0;entryPerimeter=0;" parent="UouBOmaYRDly8nJl6drz-16" edge="1">
@@ -4043,8 +4043,8 @@
         <mxCell id="UouBOmaYRDly8nJl6drz-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="UouBOmaYRDly8nJl6drz-16" vertex="1">
           <mxGeometry x="20" y="1347" width="10" height="193" as="geometry" />
         </mxCell>
-        <mxCell id="UouBOmaYRDly8nJl6drz-21" value="Mocie DB" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="771" y="33" width="40" height="1737" as="geometry" />
+        <mxCell id="UouBOmaYRDly8nJl6drz-21" value="Notices&lt;br&gt;DB" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="771" y="39" width="40" height="1737" as="geometry" />
         </mxCell>
         <mxCell id="UouBOmaYRDly8nJl6drz-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#ffffff;gradientColor=none;" parent="UouBOmaYRDly8nJl6drz-21" vertex="1">
           <mxGeometry x="15" y="867" width="10" height="323" as="geometry" />
@@ -4052,7 +4052,7 @@
         <mxCell id="UouBOmaYRDly8nJl6drz-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="UouBOmaYRDly8nJl6drz-21" vertex="1">
           <mxGeometry x="15" y="1347" width="10" height="193" as="geometry" />
         </mxCell>
-        <mxCell id="UouBOmaYRDly8nJl6drz-24" value="&lt;span&gt;Movie manager&lt;/span&gt;" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="UouBOmaYRDly8nJl6drz-24" value="Notices&lt;br&gt;Controller" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="659" y="33" width="40" height="1787" as="geometry" />
         </mxCell>
         <mxCell id="UouBOmaYRDly8nJl6drz-25" value="Status()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.095;entryY=0.873;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.076;exitY=0.874;exitDx=0;exitDy=0;exitPerimeter=0;" parent="UouBOmaYRDly8nJl6drz-24" source="UouBOmaYRDly8nJl6drz-42" edge="1">
