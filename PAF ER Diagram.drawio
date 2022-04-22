@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T15:37:06.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Tb2UpH1moyOHoLWzyqtV" version="17.4.6" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-04-22T15:50:04.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="bWxpUufzcNMXLjEJddb-" version="17.4.6" type="github" pages="18">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
-    <mxGraphModel dx="1695" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1695,7 +1695,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kfiLMbSmrToEitdJbPPl" name="Harsha Activity customer">
-    <mxGraphModel dx="2148" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2071" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2711,7 +2711,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lgFJ5pHFm_zoeGQzAwsO" name="Harsha Activity admin">
-    <mxGraphModel dx="2737" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3964,7 +3964,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mmGXzSUyRFw0xplu-he5" name="Kunkuma sequence">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1887" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4172,6 +4172,15 @@
             <mxPoint x="-55.00000000000023" y="917" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IFH1kKMjn4XRJr2vHJnd-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UouBOmaYRDly8nJl6drz-21">
+          <mxGeometry x="-176" y="991" width="10" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="IFH1kKMjn4XRJr2vHJnd-8" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;View Notice&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;entryX=-0.146;entryY=0.252;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="IFH1kKMjn4XRJr2vHJnd-1" parent="UouBOmaYRDly8nJl6drz-21">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-731.0000000000002" y="1011.0000000000002" as="sourcePoint" />
+            <mxPoint x="-651" y="1011" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UouBOmaYRDly8nJl6drz-24" value="Notices&lt;br&gt;Controller" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="659" y="33" width="40" height="1787" as="geometry" />
         </mxCell>
@@ -4217,7 +4226,7 @@
             <mxPoint x="680" y="491" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UouBOmaYRDly8nJl6drz-61" value="Save Details()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.012;entryY=0.207;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;" parent="1" target="UouBOmaYRDly8nJl6drz-23" edge="1" source="UouBOmaYRDly8nJl6drz-27">
+        <mxCell id="UouBOmaYRDly8nJl6drz-61" value="Save Details()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.012;entryY=0.207;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;" parent="1" source="UouBOmaYRDly8nJl6drz-27" target="UouBOmaYRDly8nJl6drz-23" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="684" y="500.91499999999996" as="sourcePoint" />
             <mxPoint x="753.8399999999999" y="501.1080000000002" as="targetPoint" />
@@ -4245,7 +4254,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Anusara sequence" id="OchM2lfPYr7anfYRcIDU">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="SKcA8qmUP-rsrpmw7ywS-0" />
         <mxCell id="SKcA8qmUP-rsrpmw7ywS-1" parent="SKcA8qmUP-rsrpmw7ywS-0" />
