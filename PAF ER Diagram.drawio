@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T09:11:11.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="1DIbAldt9PLWRmsON0t8" version="17.4.6" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-04-22T09:11:56.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="FQOv5_9yHn7Fb5g0VvJn" version="17.4.6" type="github" pages="13">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
     <mxGraphModel dx="4890" dy="3212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3356,7 +3356,7 @@
             <mxPoint x="310.21000000000004" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1z-J6mET4Q72n3vxjR4q-13" value="Go to Home page" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="1z-J6mET4Q72n3vxjR4q-13" value="Redirect to Home page" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="378" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1z-J6mET4Q72n3vxjR4q-14" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
