@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T08:19:47.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="mS5Ncqlkf4nD6ccKE7-B" version="17.4.6" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-04-22T08:21:15.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Ep4DED3S_s50Q-xGGIAt" version="17.4.6" type="github" pages="13">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
     <mxGraphModel dx="2048" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3469,7 +3469,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F0gQphgB0UMf0IlH_nfC" name="Anusara activity admin">
-    <mxGraphModel dx="3445" dy="1390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1715" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3898,6 +3898,12 @@
             <mxPoint x="202.5" y="220" as="targetPoint" />
             <mxPoint x="202.5" y="202.5" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="au60KAgu45BZFb3f6fwZ-3" value="Test in the Meter Handler" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="plWFoiMbJxNHb96Oxl7M-1" value="Test in the Meter Handler" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
