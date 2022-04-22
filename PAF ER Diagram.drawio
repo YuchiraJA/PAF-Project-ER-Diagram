@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T18:52:28.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44" etag="fyaeo1fyc77TeBNdi1TU" version="17.4.6" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2022-04-22T19:02:03.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44" etag="a2eMYatqB5X-v4pa8gM7" version="17.4.6" type="github" pages="20">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
     <mxGraphModel dx="1865" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5314,6 +5314,26 @@
             <mxPoint x="511" y="379" as="sourcePoint" />
             <mxPoint x="441" y="379" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WgguR77nbo7xs4U_QxPs" name="Dinusha-Communication1">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-S8mg0ZPBCU4GkTTBVfU-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-S8mg0ZPBCU4GkTTBVfU-2" value="Payment UI" style="shape=umlBoundary;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="220" y="70" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-S8mg0ZPBCU4GkTTBVfU-3" value="Payment&lt;br&gt;DB" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="550" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-S8mg0ZPBCU4GkTTBVfU-4" value="Payment&amp;nbsp;&lt;br&gt;Controller" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="70" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
