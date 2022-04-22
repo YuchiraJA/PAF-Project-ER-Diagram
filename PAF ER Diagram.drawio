@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T14:24:51.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="j9HEcp2fLQ4gsG_IU9Tt" version="17.4.6" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-04-22T14:28:40.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="08E0OvEJbenLdhQ8BcuQ" version="17.4.6" type="github" pages="18">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
     <mxGraphModel dx="1865" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3964,7 +3964,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mmGXzSUyRFw0xplu-he5" name="Kunkuma sequence">
-    <mxGraphModel dx="1730" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4109,6 +4109,46 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-460" y="448" as="sourcePoint" />
             <mxPoint x="-880" y="416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bi9p-1PK9nJfmWyVqy1j-17" value="Status()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="UouBOmaYRDly8nJl6drz-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15" y="608" as="sourcePoint" />
+            <mxPoint x="-55" y="608" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bi9p-1PK9nJfmWyVqy1j-18" value="Status()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="UouBOmaYRDly8nJl6drz-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-67.00000000000023" y="618" as="sourcePoint" />
+            <mxPoint x="-137.00000000000023" y="618" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bi9p-1PK9nJfmWyVqy1j-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UouBOmaYRDly8nJl6drz-12">
+          <mxGeometry x="-145" y="548" width="10" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="bi9p-1PK9nJfmWyVqy1j-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UouBOmaYRDly8nJl6drz-12">
+          <mxGeometry x="15" y="548" width="10" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="bi9p-1PK9nJfmWyVqy1j-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UouBOmaYRDly8nJl6drz-12">
+          <mxGeometry x="-65" y="548" width="10" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="bi9p-1PK9nJfmWyVqy1j-22" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Delete&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;Inquiry&amp;nbsp;&lt;br&gt;Details&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.022;entryY=0.369;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="bi9p-1PK9nJfmWyVqy1j-21" parent="UouBOmaYRDly8nJl6drz-12">
+          <mxGeometry x="-0.0114" width="80" relative="1" as="geometry">
+            <mxPoint x="-134" y="578" as="sourcePoint" />
+            <mxPoint x="-1070" y="514" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bi9p-1PK9nJfmWyVqy1j-23" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Update&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Inquiry&amp;nbsp;&lt;br&gt;Details&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.022;entryY=0.369;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="UouBOmaYRDly8nJl6drz-12">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-55" y="588.71" as="sourcePoint" />
+            <mxPoint x="13.779999999999973" y="588.9679999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bi9p-1PK9nJfmWyVqy1j-24" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Delete Inquiry&amp;nbsp;Details&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;entryX=-0.146;entryY=0.252;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="bi9p-1PK9nJfmWyVqy1j-19" parent="UouBOmaYRDly8nJl6drz-12">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-460" y="568" as="sourcePoint" />
+            <mxPoint x="-1380" y="504" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UouBOmaYRDly8nJl6drz-16" value="Notice board&lt;br&gt;UI" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
