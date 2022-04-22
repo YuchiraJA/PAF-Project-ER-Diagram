@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T07:16:34.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="UmehkxMeDKc8BU7gLVwD" version="17.4.6" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-04-22T07:17:52.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="c9rVqP7raZIAvFbEuwFC" version="17.4.6" type="github" pages="11">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
     <mxGraphModel dx="2249" dy="1884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2739,7 +2739,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fxaYAKsLvCPI_VgNveYO" name="yuchira activity diagram">
-    <mxGraphModel dx="2878" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3131" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2809,11 +2809,11 @@
             <mxPoint x="210" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="atK3bv2JgaWMRym_g3va-56" value="Logout" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="atK3bv2JgaWMRym_g3va-56" value="Go to profile page" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="237.5" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="atK3bv2JgaWMRym_g3va-78" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="287.5" y="690" width="30" height="30" as="geometry" />
+          <mxGeometry x="287.5" y="760" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="atK3bv2JgaWMRym_g3va-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="atK3bv2JgaWMRym_g3va-78" target="atK3bv2JgaWMRym_g3va-78">
           <mxGeometry relative="1" as="geometry" />
@@ -2848,17 +2848,11 @@
         <mxCell id="atK3bv2JgaWMRym_g3va-86" value="Register customer to the system" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="70" y="110" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="atK3bv2JgaWMRym_g3va-87" value="Register customer to the system" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="560" y="250" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="atK3bv2JgaWMRym_g3va-88" value="Enter User ID" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="235" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="atK3bv2JgaWMRym_g3va-89" value="Enter User ID" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="237.5" y="320" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="atK3bv2JgaWMRym_g3va-90" value="Enter User ID" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="660" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="atK3bv2JgaWMRym_g3va-91" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="atK3bv2JgaWMRym_g3va-89">
           <mxGeometry relative="1" as="geometry">
@@ -2895,6 +2889,16 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="302.3500000000002" y="689.9999999999999" as="targetPoint" />
             <mxPoint x="302.37999999999994" y="658.68" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WOpCwTr7CskQYyIIIPx8-10" value="Edit profile details" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WOpCwTr7CskQYyIIIPx8-11" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.54;entryY=0.033;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="302.18000000000035" y="761.32" as="targetPoint" />
+            <mxPoint x="302.2100000000001" y="729.9999999999999" as="sourcePoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
