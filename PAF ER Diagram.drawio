@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T01:35:14.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="B6weC2atayWSCFv8gP6F" version="17.4.6" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2022-04-24T01:42:39.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-MhmPIdHvcoDVtBSdH41" version="17.4.6" type="github" pages="20">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
     <mxGraphModel dx="1865" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1695,7 +1695,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kfiLMbSmrToEitdJbPPl" name="Harsha Activity customer">
-    <mxGraphModel dx="2148" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2059" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3941,7 +3941,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SQgAslYWjhxeT8DAIVVS" name="Dinusha-sequence1">
-    <mxGraphModel dx="1715" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="1849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4326,10 +4326,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mmGXzSUyRFw0xplu-he5" name="Kunkuma sequence">
-    <mxGraphModel dx="830" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3873" dy="2693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rNCmGAqeBBfET6ter9pd-1" value="Inquiry Notice board Admin" style="shape=umlFrame;whiteSpace=wrap;html=1;width=230;height=30;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-60" width="890" height="1950" as="geometry" />
+        </mxCell>
         <mxCell id="1okwYBCKzjvDJ7LCCKA_-2" value="Loop" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#ffffff;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="10" y="305" width="540" height="315" as="geometry" />
         </mxCell>
@@ -4613,41 +4616,41 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lOKZQTQDArzdKvv31i_U-1" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="435" width="275" height="230" as="geometry" />
+          <mxGeometry x="1350" y="293" width="275" height="230" as="geometry" />
         </mxCell>
         <mxCell id="lOKZQTQDArzdKvv31i_U-2" value="[If valid details]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="460" width="103" height="20" as="geometry" />
+          <mxGeometry x="1390" y="318" width="103" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lOKZQTQDArzdKvv31i_U-3" value="Successful msg()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry x="0.1429" y="19" relative="1" as="geometry">
-            <mxPoint x="1095" y="520" as="sourcePoint" />
-            <mxPoint x="1025" y="520" as="targetPoint" />
+            <mxPoint x="1475" y="378" as="sourcePoint" />
+            <mxPoint x="1405" y="378" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lOKZQTQDArzdKvv31i_U-4" value="[If invalid details]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="971" y="560" width="103" height="20" as="geometry" />
+          <mxGeometry x="1351" y="418" width="103" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lOKZQTQDArzdKvv31i_U-5" value="Enter again msg()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry x="0.1118" y="19" relative="1" as="geometry">
-            <mxPoint x="1195.08" y="590.0299999999997" as="sourcePoint" />
-            <mxPoint x="1105" y="590" as="targetPoint" />
+            <mxPoint x="1575.08" y="448.02999999999975" as="sourcePoint" />
+            <mxPoint x="1485" y="448" as="targetPoint" />
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lOKZQTQDArzdKvv31i_U-6" value="Enter again msg()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.424;entryY=0.239;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="0.0769" y="19" relative="1" as="geometry">
-            <mxPoint x="1090" y="610" as="sourcePoint" />
-            <mxPoint x="1025" y="610" as="targetPoint" />
+            <mxPoint x="1470" y="468" as="sourcePoint" />
+            <mxPoint x="1405" y="468" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lOKZQTQDArzdKvv31i_U-7" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;strokeWidth=2;entryX=0.001;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="lOKZQTQDArzdKvv31i_U-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1223.46" y="550" as="sourcePoint" />
-            <mxPoint x="641.53" y="509" as="targetPoint" />
+            <mxPoint x="1603.46" y="408" as="sourcePoint" />
+            <mxPoint x="1021.53" y="367" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1233.46" y="550" />
+              <mxPoint x="1613.46" y="408" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4658,8 +4661,8 @@
         </mxCell>
         <mxCell id="lOKZQTQDArzdKvv31i_U-9" value="Successful msg()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry x="-0.1774" y="20" relative="1" as="geometry">
-            <mxPoint x="1185" y="497" as="sourcePoint" />
-            <mxPoint x="1105" y="497" as="targetPoint" />
+            <mxPoint x="1565" y="355" as="sourcePoint" />
+            <mxPoint x="1485" y="355" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -4956,7 +4959,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pFNoUth2-6vElDtK6auW" name="Dinusha-sequence2">
-    <mxGraphModel dx="1648" dy="1528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1949" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
