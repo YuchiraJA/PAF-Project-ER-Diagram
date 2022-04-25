@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T02:45:16.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="QC0a7BqcIDRprewjOuxV" version="17.4.6" type="github" pages="30">
+<mxfile host="app.diagrams.net" modified="2022-04-25T02:46:10.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="TOjQ7XOYBJI5VVguKLVJ" version="17.4.6" type="github" pages="30">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
-    <mxGraphModel dx="1865" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,7 +251,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gWIL4lwPZoUMI15kpGQ2-38" value="Cus_name" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="113" y="900" width="100" height="40" as="geometry" />
+          <mxGeometry x="166" y="920" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9J1Xk2j35T_Wb_meegYh-33" value="&lt;font style=&quot;font-size: 12px&quot;&gt;1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-420" y="-414" width="40" height="20" as="geometry" />
@@ -404,7 +404,7 @@
           <mxGeometry x="251" y="790" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gWIL4lwPZoUMI15kpGQ2-81" value="&lt;u&gt;Inquiry_id&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-45.5" y="910" width="91" height="40" as="geometry" />
+          <mxGeometry x="-69" y="880" width="91" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gWIL4lwPZoUMI15kpGQ2-85" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="315" y="650" width="20" height="20" as="geometry" />
@@ -549,6 +549,15 @@
         </mxCell>
         <mxCell id="yicsD27R707Er4HpIFbZ-24" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="8.5" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fm08IJ9VbSCcQYQd7czw-1" value="Inquiry_code" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="26.5" y="920" width="91" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fm08IJ9VbSCcQYQd7czw-2" value="" style="endArrow=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" source="Fm08IJ9VbSCcQYQd7czw-1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="72.5" y="1180" as="sourcePoint" />
+            <mxPoint x="165.5" y="849.9999999999995" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1695,7 +1704,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kfiLMbSmrToEitdJbPPl" name="Harsha Activity customer">
-    <mxGraphModel dx="1888" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2711,7 +2720,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lgFJ5pHFm_zoeGQzAwsO" name="Harsha Activity admin">
-    <mxGraphModel dx="1888" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3941,7 +3950,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SQgAslYWjhxeT8DAIVVS" name="Dinusha-sequence1">
-    <mxGraphModel dx="1888" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="1849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4326,7 +4335,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mmGXzSUyRFw0xplu-he5" name="Kunkuma sequence">
-    <mxGraphModel dx="1888" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2926" dy="2212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4669,7 +4678,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pFNoUth2-6vElDtK6auW" name="Dinusha-sequence2">
-    <mxGraphModel dx="1888" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5083,7 +5092,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WgguR77nbo7xs4U_QxPs" name="Dinusha-Communication1">
-    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5768,7 +5777,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o3NOsvVZQf_gzBEcZh0G" name="Dinusha-flowchart1">
-    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5901,7 +5910,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ac0ZtynImy17Bidf49mi" name="Dinusha-flowchart2">
-    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
