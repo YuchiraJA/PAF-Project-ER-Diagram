@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T02:06:00.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="0sjAF7uN_TvFYVV9umA0" version="17.4.6" type="github" pages="37">
+<mxfile host="app.diagrams.net" modified="2022-04-26T02:06:37.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="PKskjKBUBEEkUA6YVf0l" version="17.4.6" type="github" pages="37">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
-    <mxGraphModel dx="2714" dy="2422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1771" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,7 +73,7 @@
         <mxCell id="iZ0bgMCoI2NrM_kVkU7W-5" value="AccountNo" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="393" y="-180" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GwoW-9eUFXNhQJcoqlGR-20" value="Notices" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GwoW-9eUFXNhQJcoqlGR-20" value="Notice" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-17" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BmbAjrQ7ErxFybZsGOEc-1" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="gWIL4lwPZoUMI15kpGQ2-8" target="BmbAjrQ7ErxFybZsGOEc-19" edge="1">
