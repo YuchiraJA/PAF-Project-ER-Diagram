@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T05:56:59.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ypvAyHJDUIpjGl54Ccsc" version="17.4.6" type="github" pages="37">
+<mxfile host="app.diagrams.net" modified="2022-04-26T05:58:46.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="4vp_ygQd1GnhxZvPmVeP" version="17.4.6" type="github" pages="37">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
     <mxGraphModel dx="3671" dy="2599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4552,7 +4552,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bwQnLnywb46tHkcwdFf3" name="Anusara sequence 1">
-    <mxGraphModel dx="2243" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2243" dy="1884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5039,8 +5039,8 @@
             <mxPoint x="361" y="507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-y9b0i5K2ZYcsjGnr1vc-108" value="SD:Admin" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-50" width="930" height="1870" as="geometry" />
+        <mxCell id="-y9b0i5K2ZYcsjGnr1vc-108" value="SD: Test Meter Handling &amp;amp; Manage Bills" style="shape=umlFrame;whiteSpace=wrap;html=1;width=150;height=30;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="-10" width="930" height="1880" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
