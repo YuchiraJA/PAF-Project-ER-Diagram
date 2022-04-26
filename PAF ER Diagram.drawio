@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T05:52:30.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="JiIeyfQXqEIlNWxU1gYQ" version="17.4.6" type="github" pages="37">
+<mxfile host="app.diagrams.net" modified="2022-04-26T05:52:57.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="M8DwOhomtxJV2aLG3BWW" version="17.4.6" type="github" pages="37">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
     <mxGraphModel dx="3671" dy="2599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3652,7 +3652,7 @@
             <mxPoint x="435" y="560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N6d_6v6kT8HvTPJ-B117-1" value="Manage Inquiries &amp;amp; Notices&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=40;" vertex="1" parent="1">
+        <mxCell id="N6d_6v6kT8HvTPJ-B117-1" value="Do Payment&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=40;" vertex="1" parent="1">
           <mxGeometry x="10" y="40" width="580" height="1000" as="geometry" />
         </mxCell>
       </root>
