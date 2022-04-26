@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T05:42:00.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Mv_6icc3NsYuGbhh2bJq" version="17.4.6" type="github" pages="37">
+<mxfile host="app.diagrams.net" modified="2022-04-26T05:43:55.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MG8VD6fWzoFYNfl0-1uZ" version="17.4.6" type="github" pages="37">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
     <mxGraphModel dx="3671" dy="2599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2395,7 +2395,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kfiLMbSmrToEitdJbPPl" name="Harsha Activity customer">
-    <mxGraphModel dx="2266" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2873" dy="2121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2403,13 +2403,13 @@
           <mxGeometry x="-310" y="25" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="29ATisHOqyolHkxP_mVB-25" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="60" width="390" height="1590" as="geometry" />
+          <mxGeometry x="-30" y="60" width="390" height="1220" as="geometry" />
         </mxCell>
         <mxCell id="CeraA9HRbjtSE5IFpqf9-1" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-460" y="27.5" width="150" height="1622.5" as="geometry" />
+          <mxGeometry x="-460" y="27.5" width="150" height="1262.5" as="geometry" />
         </mxCell>
         <mxCell id="ZBfrLKH6vjdWGbttURGH-63" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-310" y="25" width="280" height="1620" as="geometry" />
+          <mxGeometry x="-310" y="25" width="280" height="1265" as="geometry" />
         </mxCell>
         <mxCell id="ZBfrLKH6vjdWGbttURGH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-30" y="25" width="390" height="60" as="geometry" />
@@ -3014,6 +3014,9 @@
             <mxPoint x="50" y="54.91249999999991" as="sourcePoint" />
             <mxPoint x="328.6399999999999" y="53.52499999999998" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MEBngIzpf-m_rl-IQgG9-1" value="Send Inquiries &amp;amp; View Notices&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=40;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="-30" width="890" height="1360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
