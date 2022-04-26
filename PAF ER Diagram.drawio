@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T05:45:04.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="c1I2Tw9wQiNs4NK3ejyL" version="17.4.6" type="github" pages="37">
+<mxfile host="app.diagrams.net" modified="2022-04-26T05:46:28.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="0_BrqToVqK1dzX5t2IHB" version="17.4.6" type="github" pages="37">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
     <mxGraphModel dx="3671" dy="2599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3022,12 +3022,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F0gQphgB0UMf0IlH_nfC" name="Anusara activity admin">
-    <mxGraphModel dx="2266" dy="1815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2341" dy="1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9Wu20Ycflghok25OVJtk-63" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="80" width="420" height="1560" as="geometry" />
+          <mxGeometry x="-370" y="80" width="420" height="1020" as="geometry" />
         </mxCell>
         <mxCell id="9Wu20Ycflghok25OVJtk-1" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="50" width="280" height="1585" as="geometry" />
@@ -3069,7 +3069,7 @@
           <mxGeometry x="-760" y="25" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="58lyVOhJ4_JCXH-369nj-7" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-760" y="50" width="390" height="1590" as="geometry" />
+          <mxGeometry x="-760" y="50" width="390" height="1060" as="geometry" />
         </mxCell>
         <mxCell id="58lyVOhJ4_JCXH-369nj-9" value="Bill Handler" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-610" y="50" width="90" height="20" as="geometry" />
@@ -3337,7 +3337,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ckpKvD6HwxCsiCinfYEc-1" value="Manage Bills &amp;amp; Meter Handling&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=40;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="-30" width="1150" height="1360" as="geometry" />
+          <mxGeometry x="-790" y="-30" width="1150" height="1170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
