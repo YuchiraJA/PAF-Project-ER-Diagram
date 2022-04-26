@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T05:39:17.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="2da3RJykMqpe-g4gRmQl" version="17.4.6" type="github" pages="37">
+<mxfile host="app.diagrams.net" modified="2022-04-26T05:40:18.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="B6JvnkEtpEbOOEMmnKDp" version="17.4.6" type="github" pages="37">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
     <mxGraphModel dx="3671" dy="2599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1628,7 +1628,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fxaYAKsLvCPI_VgNveYO" name="yuchira activity diagram">
-    <mxGraphModel dx="1666" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2575" dy="2150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1860,7 +1860,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="au2A8YZC72BoDMO4ls2G" name="yuchira activity admin">
-    <mxGraphModel dx="914" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2112,6 +2112,9 @@
               <mxPoint x="572" y="746" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fBQhyhomelYGoppyJ4qH-1" value="Admin Login &amp;amp;&amp;nbsp; Manage Customers" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=40;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-50" width="450" height="1000" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
