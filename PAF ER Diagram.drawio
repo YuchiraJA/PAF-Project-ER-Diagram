@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T05:54:08.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="SD8omEvYJ2VD7Etv2Z_A" version="17.4.6" type="github" pages="37">
+<mxfile host="app.diagrams.net" modified="2022-04-26T05:55:03.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="83oGt3Ga3uaulkcbze_O" version="17.4.6" type="github" pages="37">
   <diagram id="M_5o9T0Zfa3jsSFbfTRQ" name="ER Diagram ">
     <mxGraphModel dx="3671" dy="2599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3659,7 +3659,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-XlB3u8CxXFS6eh5aa_Y" name="Dinusha-activity-admin">
-    <mxGraphModel dx="2690" dy="2888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="566" dy="1815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3858,6 +3858,9 @@
               <mxPoint x="1230" y="400" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3A6nV6c2kXfDfNy72ETB-1" value="Manage Payment" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=40;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-90" width="740" height="1020" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
